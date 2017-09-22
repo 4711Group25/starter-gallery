@@ -1,33 +1,28 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Morris Arroyo (MA) (Captain) & Kabir Cahill (KC) (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1.0*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 22, 2017
+
+Converted the static pages to a trivial CI website.
 
 ## New Components
 
 -   controllers
-
-    -   serbian (AB)
-    
+    -   welcome (KC)
+    -   about (KC)
+    -   gallery (KC)
+-   views
+    -   welcome (KC)
+    -   about (KC)
+    -   gallery (KC)
+   
 ## Updated Components
 
--   controllers
+## Deleted Components
 
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+-   welcome_message.php
