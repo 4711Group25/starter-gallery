@@ -12,13 +12,16 @@ Release Date: Sep 22,2017
 
 ## Updated Components
 
-- .gitignore
+-   views
+	-	template.php
+	
+-	.gitignore
 
 ## Deleted Components
 
-- .idea/modules.xml
-- .idea/starter-gallery.iml
-- .idea/vcs.xml
+- 	.idea/modules.xml
+- 	.idea/starter-gallery.iml
+- 	.idea/vcs.xml
 
 ## *Version 1.0*
 
