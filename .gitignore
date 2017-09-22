@@ -6,7 +6,7 @@
 !*/cache/.htaccess
 /nbproject/private/
 /nbproject/
-
+.idea
 
 # Created by https://www.gitignore.io/api/phpstorm
 
