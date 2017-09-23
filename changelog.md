@@ -8,20 +8,33 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: Sep 22,2017
 
+Converted the trivial CI website to a basic CI website
+
 ## New Components
 
 ## Updated Components
 
+-   core
+    -   MY_Controller (MA)
+    
+-   controllers
+    -   about (MA)
+    -   gallery (MA)
+    -   welcome (MA) 
+    
 -   views
-	-	template.php
+	-	template (MA)
+	-   welcome (MA)
+	-   about (MA)
+	-   gallery (MA)
 	
--	.gitignore
+-	.gitignore (MA)
 
 ## Deleted Components
 
-- 	.idea/modules.xml
-- 	.idea/starter-gallery.iml
-- 	.idea/vcs.xml
+- 	.idea/modules.xml (MA)
+- 	.idea/starter-gallery.iml (MA)
+- 	.idea/vcs.xml (MA)
 
 ## *Version 1.0*
 
