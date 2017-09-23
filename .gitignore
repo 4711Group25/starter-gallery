@@ -7,6 +7,7 @@
 /nbproject/private/
 /nbproject/
 .idea
+/application/config/database.php
 
 # Created by https://www.gitignore.io/api/phpstorm
 
