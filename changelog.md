@@ -4,6 +4,33 @@ Team membership:  Morris Arroyo (MA) (Captain) & Kabir Cahill (KC) (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 3.0
+
+Release Date: Sep 23,2017
+
+Converted the basic CI website to a good CI website with a database that contains the site's content.
+
+## New Components
+
+-   models
+    -   images - queries the database for image data (KC)
+-   views
+    -   _cell.php - a gallery table cell template (KC)
+
+## Updated Components
+    
+-   controllers
+    -   gallery (KC)
+    -   welcome (KC) 
+    
+-   views
+	-   welcome (KC)
+	-   gallery (KC)
+	
+-	.gitignore (KC)
+
+## Deleted Components
+
 ## *Version 2.0
 
 Release Date: Sep 22,2017
